@@ -1,0 +1,6 @@
+strings, list comprehension, map, reduce, lambda functions
+exception handling- try except else finally
+basics about objects
+functions- different types of arguments, returning a functions, passing a function, pass by object(immutable n mutable objects)
+OOP, __init__
+
