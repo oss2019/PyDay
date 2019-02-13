@@ -10,14 +10,15 @@ By the end of this lesson, you will learn about
 - 5. Functions
 - 6. File Handling
 - 7. Using IPython notebooks.
+<br>
 All while making your very own primitive spam classifier !
 
 # Session 2 : Advanced Concepts and OOPS !
 
-# Lesson 2 : Mutable/Immutable Objects
-# Lesson 3 : More about Functions 
-# Lesson 4 : 
-
+## Lesson 2 : Mutable/Immutable Objects
+## Lesson 3 : More about Functions 
+## Lesson 4 : 
+<br>
 # Resources
 
 We will be updating this session soon !
