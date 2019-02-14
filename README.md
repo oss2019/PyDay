@@ -17,7 +17,7 @@ All while making your very own primitive spam classifier !
 
 ## Lesson 2 : Mutable/Immutable Objects
 ## Lesson 3 : More about Functions 
-## Lesson 4 : 
+## Lesson 4 : OOPS!
 <br>
 # Resources
 
