@@ -18,7 +18,8 @@ All while making your very own primitive spam classifier !
 ## Lesson 2 : Mutable/Immutable Objects
 ## Lesson 3 : More about Functions 
 ## Lesson 4 : OOPS!
+## Lesson 5 : Make your own Chatbot (without ML or AI)
 <br>
 # Resources
 
-We will be updating this session soon !
+Check [beginner-resources.md](https://github.com/oss2019/PyDay/blob/master/beginner-resources.md)
