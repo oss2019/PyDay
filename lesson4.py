@@ -42,8 +42,8 @@ class Chatbot:
             print('Sorry, something went wrong.')
 
     @decor_func
-    def sorry(self):
-        print('Sorry {}, I didn\'t quite understand you.'.format(self.user))
+    def features(self):
+        print('Currently I can only tell you jokes and motivate you.')
 
     def process(self, input):
 
@@ -51,17 +51,19 @@ class Chatbot:
 
         # map_words_to_command
         my_dict = {
-            'greetings,hello,hey,hi': self.greetings,
-            'jokes,funny,bored,bore': self.jokes,
+            'greeting,hello,hey,hi': self.greetings,
+            'fun,bored,bore,joke': self.jokes,
             'inspire,motivate,sad,feeling down': self.motivate_me,
             # 'bye': exit()
         }
 
         for key,value in my_dict.items():
-            for word in key.split(','):
+            words = key.split(',')            
+            for word in words:
+                print(word)
                 if word in input_string:
                     return value     
-        return self.sorry
+        return self.features
 
     def deploy(self, run=True):
         while(run):
