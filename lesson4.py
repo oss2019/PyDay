@@ -60,7 +60,6 @@ class Chatbot:
         for key,value in my_dict.items():
             words = key.split(',')            
             for word in words:
-                print(word)
                 if word in input_string:
                     return value     
         return self.features
