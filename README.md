@@ -23,3 +23,5 @@ All while making your very own primitive spam classifier !
 # Resources
 
 Check [beginner-resources.md](https://github.com/oss2019/PyDay/blob/master/beginner-resources.md)
+Check [advanced-resources.md](https://github.com/oss2019/PyDay/blob/master/advanced-resources.md)
+
